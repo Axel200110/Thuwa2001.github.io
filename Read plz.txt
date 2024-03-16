@@ -1,0 +1,1 @@
+Contact us page message send through google sheet.contact us html is sample for that.
